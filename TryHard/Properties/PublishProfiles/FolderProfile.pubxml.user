@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\KiemTra\Host</_PublishTargetUrl>
+    <History>True|2021-12-24T10:24:04.5402691Z;True|2021-12-24T17:19:26.0256281+07:00;True|2021-12-24T17:17:00.3777353+07:00;True|2021-12-24T16:38:24.9809521+07:00;</History>
+  </PropertyGroup>
+</Project>
